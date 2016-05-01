@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Instructional designer and educational enthusiast.
-datePublished: '2016-05-01T19:32:08.724Z'
-dateModified: '2016-05-01T19:28:14.980Z'
+datePublished: '2016-05-01T19:58:39.143Z'
+dateModified: '2016-05-01T19:57:45.937Z'
 title: About Antoine
 author: []
 authors: []
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # About Antoine
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/671e3aa9-b95d-41a6-b29a-ec28f546a18d.jpg)
 
 ## Hi, I'm Antoine D. Bedward
 
@@ -37,8 +36,13 @@ In Toronto, I split my time researching the potential of large scale internation
 
 During this time, I realized that we are at the tipping point of the educational revolution. Formal and corporate learning is about to change forever.
 
+Drop me a line if you are curious.
+
+email: [antoine@instructionalarchitecture.com][1]
+
 > The answer is not to standardize education, but to personalize and customize it to the needs of each child and community. There is no alternative. There never was. - Sir Ken Robinson
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0d038b-f34f-4d4c-b420-cc3823e52d08.jpg)
+
 
 [0]: https://dt.athabascau.ca/jspui/bitstream/10791/43/5/Despres-Bedward,%20Antoine%20Thesis%20Document.pdf
+[1]: null
