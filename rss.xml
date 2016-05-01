@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Instructional Architecture]]></title>
         <description><![CDATA[Instructional Architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/instructional-architecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 19:32:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 19:32:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/instructional-architecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Antoine]]></title>
+            <description><![CDATA[<article><h1>About Antoine</h1><h2>Hi, I'm Antoine D. Bedward</h2><p>Instructional designer and educational enthusiast.</p></article>]]></description>
+            <link>https://thegrid.ai/instructional-architecture/about-antoine/index.html</link>
+            <guid isPermaLink="false">894a1cf6-7d58-4e54-a32f-9f3a7a266b6e</guid>
+            <pubDate>Sun, 01 May 2016 19:32:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Instructional Architecture]]></title>
             <description><![CDATA[<article><h1>Instructional Architecture</h1><h2>Learning that excites.</h2></article>]]></description>
-            <link>undefinedinstructional-architecture/index.html</link>
+            <link>https://thegrid.ai/instructional-architecture/instructional-architecture/index.html</link>
             <guid isPermaLink="false">dd66612f-92ec-4224-ad6f-1f2f4d71a333</guid>
             <pubDate>Sun, 01 May 2016 19:32:08 GMT</pubDate>
         </item>
