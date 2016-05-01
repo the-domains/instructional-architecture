@@ -1,6 +1,6 @@
 name: Instructional Architecture
 favicon: null
-layout_spectrum: 0.3740115389227867
+layout_spectrum: 0.99337
 typography_spectrum: 0.4088541902601719
 title: Instructional Architecture
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.560108742909506
+  brandStrength: 0.5
   lightness: 0.7942776465788484
   saturation: 0.765507438685745
   rhythmicContrast: 0.23634098190814257
