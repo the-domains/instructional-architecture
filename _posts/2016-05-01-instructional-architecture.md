@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T19:58:44.617Z'
-dateModified: '2016-05-01T19:58:01.709Z'
+datePublished: '2016-05-01T19:59:30.915Z'
+dateModified: '2016-05-01T19:59:30.054Z'
 title: Instructional Architecture
 author: []
 sourcePath: _posts/2016-05-01-instructional-architecture.md
