@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Instructional designer and educational enthusiast.
-datePublished: '2016-05-01T19:58:39.143Z'
-dateModified: '2016-05-01T19:57:45.937Z'
-title: About Antoine
+datePublished: '2016-05-01T20:04:01.740Z'
+dateModified: '2016-05-01T20:03:41.592Z'
+title: About
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: about-antoine/index.html
 _type: Article
 
 ---
-# About Antoine
+# About
 
 ## Hi, I'm Antoine D. Bedward
 
@@ -38,11 +38,10 @@ During this time, I realized that we are at the tipping point of the educational
 
 Drop me a line if you are curious.
 
-email: [antoine@instructionalarchitecture.com][1]
+email: antoine@instructionalarchitecture.com
 
 > The answer is not to standardize education, but to personalize and customize it to the needs of each child and community. There is no alternative. There never was. - Sir Ken Robinson
 
 
 
 [0]: https://dt.athabascau.ca/jspui/bitstream/10791/43/5/Despres-Bedward,%20Antoine%20Thesis%20Document.pdf
-[1]: null
