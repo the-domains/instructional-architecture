@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The learning revolution is here. Free and open courses, comprehensive learning management systems, learner-centred digital environments, artificial intelligence curated curricula and private accreditation institutions are quickly flooding the market with opportunities for individuals to self-educate at a low cost.'
-datePublished: '2016-05-01T20:04:47.097Z'
-dateModified: '2016-05-01T20:04:42.935Z'
+datePublished: '2016-05-01T20:05:07.899Z'
+dateModified: '2016-05-01T20:04:53.107Z'
 title: Instructional Architecture
 author: []
 sourcePath: _posts/2016-05-01-instructional-architecture.md
