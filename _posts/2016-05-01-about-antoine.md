@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Instructional designer and educational enthusiast.
-datePublished: '2016-05-01T20:29:28.032Z'
-dateModified: '2016-05-01T20:29:00.532Z'
+datePublished: '2016-05-01T20:54:37.390Z'
+dateModified: '2016-05-01T20:47:55.110Z'
 title: About
 author: []
 sourcePath: _posts/2016-05-01-about-antoine.md
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
