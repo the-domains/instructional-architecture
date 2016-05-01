@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Instructional designer and educational enthusiast.
-datePublished: '2016-05-01T20:54:37.390Z'
-dateModified: '2016-05-01T20:47:55.110Z'
+datePublished: '2016-05-01T21:02:16.672Z'
+dateModified: '2016-05-01T21:02:01.485Z'
 title: About
 author: []
 sourcePath: _posts/2016-05-01-about-antoine.md
@@ -38,10 +38,16 @@ During this time, I realized that we are at the tipping point of the educational
 
 Drop me a line if you are curious.
 
-email: antoine@instructionalarchitecture.com
+e: antoine@instructionalarchitecture.com
+
+t: (613) 355-5583
 
 > The answer is not to standardize education, but to personalize and customize it to the needs of each child and community. There is no alternative. There never was. - Sir Ken Robinson
 
+## As an Instructional Designer...
 
+...I've designed courses on a wide range of subjects. My portfolio includes courses ranging from politics to human resources and engineering to earth sciences. 
+
+I started out designing courses in the corporate classroom and I have since progressed to designing more complex online programs on large scale digital platforms.
 
 [0]: https://dt.athabascau.ca/jspui/bitstream/10791/43/5/Despres-Bedward,%20Antoine%20Thesis%20Document.pdf
