@@ -1,0 +1,28 @@
+name: Instructional Architecture
+favicon: null
+layout_spectrum: 0.3740115389227867
+typography_spectrum: 0.4088541902601719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.560108742909506
+  lightness: 0.7942776465788484
+  saturation: 0.765507438685745
+  rhythmicContrast: 0.23634098190814257
+purpose: []
