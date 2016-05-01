@@ -2,12 +2,13 @@ name: Instructional Architecture
 favicon: null
 layout_spectrum: 0.3740115389227867
 typography_spectrum: 0.4088541902601719
+title: Instructional Architecture
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77147790-1
   facebook: null
   twitter: null
 opengraph:
